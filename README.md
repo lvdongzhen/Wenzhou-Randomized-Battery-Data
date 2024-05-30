@@ -7,7 +7,7 @@ Data: https://1drv.ms/f/s!AnQLciP1URipkqIM5lXZFwW5KHJP4Q <br>
 Code: https://1drv.ms/f/s!AnQLciP1URipkcEXXUBepqj8M4tn5A <br>
 Source data of all related figures: https://1drv.ms/f/s!AnQLciP1URipkct5nnZVyuzH4Y4yxg <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu <br>
-GitHub: https://github.com/lvdongzhen <br>
+GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data <br>
 Email: lvdongzhen@hrbeu.edu.cn <br>
 WeChat ID: LyuDongzhen <br>
 
