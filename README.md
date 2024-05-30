@@ -14,7 +14,7 @@ ShareAlike Requirement:
 Any derivative work or shared content must adhere to the same license terms (CC BY-SA 4.0), attributing the data source as "Wenzhou Randomized Battery Data" and citing the source article mentioned above.
 
 Agreement:
-By accessing and using the provided data and code, you agree to adhere to the terms stated above. We will promptly verify the availability of the files upon your request. Please stay tuned for updates. For inquiries or clarifications, please contact Dr. Dongzhen Lyu.
+By accessing and using the provided data and code, you agree to adhere to the terms stated above. We will promptly verify the availability of the files upon your request. Please stay tuned for updates. For inquiries or clarifications, please contact Dr. Dongzhen Lyu. <br>
 Email: lvdongzhen@hrbeu.edu.cn <br>
 WeChat ID: LyuDongzhen <br>
 
