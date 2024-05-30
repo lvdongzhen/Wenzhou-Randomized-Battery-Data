@@ -1,7 +1,7 @@
 # Wenzhou-Randomized-Battery-Data
 
 Accessibility and Attribution:
-Data, code, and source data of related figures are accessible via Creative Commons 4.0 International License (CC BY-SA 4.0). Proper attribution is required when using the data, citing it as "Wenzhou Randomized Battery Data" and referencing the source article: Dongzhen Lyu, et al. "Cumulative Utilization Lifetime Prognostics: Bridging Laboratory and Real-Life Scenarios." Cell Reports Physical Science (2024).
+Data, code, and source data of related figures are accessible via Creative Commons 4.0 International License (CC BY-SA 4.0). Proper attribution is required when using the data, citing it as "Wenzhou Randomized Battery Data" and referencing the source article: Dongzhen Lyu, et al. Battery Cumulative Lifetime Prognostics: Bridging Laboratory and Real-Life Scenarios. Cell Reports Physical Science (2024).
 
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg <br>
 Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX?usp=drive_link <br>
