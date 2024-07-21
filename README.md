@@ -11,7 +11,10 @@ Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAe
 Quark: https://pan.quark.cn/s/0fe7ffce2dec   <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
-When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. Commercial use of the data is permitted under compliance with the terms of this license, but please contact Dr. Dongzhen Lyu in advance for permission and technical support when commercializing the related code.
+When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. The scenarios involved in this experiment are complex, and the degradation processes and influencing factors of each battery require further research. To ensure the scientific accuracy of the relevant analyses, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations of the experimental details. 
+
+***Commercial Use***  <br>
+Commercial use of the relevant data is permitted in compliance with this agreement. However, when using the related code for commercial purposes, please ensure that you contact Dr. Dongzhen Lyu in advance to obtain patent permission and technical support.
 
 ***Cooperation Invitation***  <br>
 Dr. Dongzhen Lyu has been deeply involved in the field of lithium battery lifetime prediction for almost ten years, conducting extensive research on technical bottlenecks and application challenges in real-world life prediction scenarios. He has developed a series of engineering methods, applied for multiple Chinese, PCT, and U.S. patents, and received authorizations. Interested parties in related research are welcome to contact at any time to collaborate on academic research or industrial cooperation. 
@@ -47,7 +50,10 @@ Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
 夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec   <br>
 
 ***署名-禁止演绎要求***  <br>
-在使用或分享相关的数据或代码时，请务必将数据源命名为“温州大学随机电池退化数据”或者“Wenzhou Randomized Battery Data”，并引用上述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。在遵守本协议相关内容的情况下可以对相关数据进行商业使用，但对相关代码进行商用时请务必提前联系吕东祯博士本人以获得许可和技术支持。
+在使用或分享相关的数据或代码时，请务必将数据源命名为“温州大学随机电池退化数据”或者“Wenzhou Randomized Battery Data”，并引用上述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
+
+***商用条款***
+在遵守本协议相关内容的情况下可以对相关数据进行商业使用，但对相关代码进行商用时请务必提前联系吕东祯博士本人以获得专利许可和技术支持。
 
 ***合作邀请***  <br>
 吕东祯博士在锂电池寿命预测领域深耕近十年，针对实车工况寿命预测中的技术瓶颈和应用难点进行了深入研究，开发了一系列工程方法，申请多项中国、国际、美国发明专利并授权。欢迎对该相关研究感兴趣的人士随时联系，共同开展学术研究或者产业化合作。
