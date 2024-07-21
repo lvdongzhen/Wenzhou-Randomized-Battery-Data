@@ -9,6 +9,7 @@ ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
 Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX   <br>
 Quark: https://pan.quark.cn/s/0fe7ffce2dec   <br>
+X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu  <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. The scenarios involved in this experiment are complex, and the degradation processes and influencing factors of each battery require further research. To ensure the scientific accuracy of the relevant analyses, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations of the experimental details. 
@@ -48,6 +49,7 @@ ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
 谷歌网盘: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX   <br>
 夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec   <br>
+X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu   <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必将数据源命名为“温州大学随机电池退化数据”或者“Wenzhou Randomized Battery Data”，并引用上述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
