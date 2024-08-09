@@ -1,7 +1,7 @@
 # License of Wenzhou Randomized Battery Data
 
 ***Accessibility and Attribution***  <br>
-The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Randomized Battery Data" and cite the source article: Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics: Bridging Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024).
+The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Randomized Battery Data" and cite the source article: Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024).
 
 ***Data Storage Location***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data   <br>
@@ -25,7 +25,7 @@ Here is a research case that adopts accumulated mileage as a lifetime indicator 
 Wang, Q.; Wang, Z.; Liu, P.; Zhang, L.; Sauer, D.U.; Li, W. Large-scale field data-based battery aging prediction driven by statistical features and machine learning. Cell Rep. Phys. Sci. 2023, 4, 101720.
 
 ***Competing interests declaration***  <br>
-Dr. Dongzhen Lyu has filed a US application with No. 18/163,357 on February 2, 2023, which is a Bypass Continuation of the International Patent Application No. PCT/CN2022/097748 with an international filing date of June 9, 2022. The application further claims foreign priority benefits to Chinese Patent Application No. 202111513327.5 filed on December 12, 2021, Chinese Patent Application No. 202111178722.2 filed on October 11, 2021, and Chinese Patent Application No. 202110798763.5 filed on July 15, 2021. Dr. Dongzhen Lyu reserves all rights to these patents. Dr. Dongzhen Lyu and Ms. Yueqin Cui retain all rights to these patents, including ownership, licensing, transfer, claims, profits, and other related rights. 
+Dr. Dongzhen Lyu has filed a US application with No. 18/163,357 on February 2, 2023, which is a Bypass Continuation of the International Patent Application No. PCT/CN2022/097748 with an international filing date of June 9, 2022. The application further claims foreign priority benefits to Chinese Patent Application No. 202111513327.5 filed on December 12, 2021, Chinese Patent Application No. 202111178722.2 filed on October 11, 2021, and Chinese Patent Application No. 202110798763.5 filed on July 15, 2021. Dr. Dongzhen Lyu and Ms. Yueqin Cui retain all rights to these patents, including ownership, licensing, transfer, claims, profits, and other related rights. 
 
 ***License Agreement***  <br>
 Any institution, organization, entity, or individual, upon adopting, using, or in any way utilizing the data provided here for research, development, education, commercial activities, or any other activities, is deemed to automatically agree to and fully comply with all terms of this license agreement. In the event of any breach of this license agreement, the user must immediately cease using the data and take all necessary measures to mitigate any adverse effects resulting from unauthorized use, and be willing to accept any legal responsibilities arising from such actions.
@@ -41,7 +41,7 @@ WeChat ID: LyuDongzhen   <br>
 # 温州大学随机电池退化数据的许可协议
 
 ***数据访问和署名***  <br>
-相关数据和代码的访问权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享相关的数据或代码时，请务必采用统一的命名格式“温州大学随机电池退化数据”来进行指代该数据源，英文版本为"Wenzhou Randomized Battery Data"，同时还需要引用来源文章：Dongzhen Lyu, et al. Battery Cumulative Lifetime Prognostics: Bridging Laboratory and Real-Life Scenarios. Cell Reports Physical Science (2024).
+相关数据和代码的访问权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享相关的数据或代码时，请务必采用统一的命名格式“温州大学随机电池退化数据”来进行指代该数据源，英文版本为"Wenzhou Randomized Battery Data"，同时还需要引用来源文章：Dongzhen Lyu, et al. Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios. Cell Reports Physical Science (2024).
 
 ***数据存储位置***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data   <br>
