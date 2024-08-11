@@ -38,10 +38,10 @@ For inquiries or clarifications, please contact Dr. Dongzhen Lyu.  <br>
 Email: lvdongzhen@hrbeu.edu.cn   <br>
 WeChat ID: LyuDongzhen   <br>
 
-# 温州大学随机电池退化数据的许可协议
+# WZU随机电池退化数据的许可协议
 
 ***数据访问和署名***  <br>
-相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“温州大学随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用以下来源文章："Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164."
+相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用以下来源文章："Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164."
 
 ***数据存储位置***  <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data   <br>
@@ -52,7 +52,7 @@ Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
 X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu   <br>
 
 ***署名-禁止演绎要求***  <br>
-在使用或分享相关的数据或代码时，请务必将数据源命名为“温州大学随机电池退化数据”或者“Wenzhou Randomized Battery Data”，并引用上述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
+在使用或分享相关的数据或代码时，请务必将数据源命名为“WZU随机电池退化数据”或者“Wenzhou Randomized Battery Data”，并引用上述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
 
 ***商用条款***  <br>
 在遵守本协议相关内容的情况下可以对相关数据进行商业使用，但对相关代码进行商用时请务必提前联系吕东祯博士本人以获得专利许可和技术支持。
