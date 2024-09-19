@@ -3,13 +3,17 @@
 ***Accessibility and Attribution***  <br>
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Randomized Battery Data" and cite the source article: Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164
 
-***Data Storage Location***  <br>
-GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data   <br>
-ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
-Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX   <br>
-Quark: https://pan.quark.cn/s/0fe7ffce2dec   <br>
-X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu  <br>
+***Data Storage Locations for International Use***  <br>
+GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data  <br>
+ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu  <br>
+Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg  <br>
+Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX  <br>
+
+***Data Storage Location for China***
+Quark Drive: https://pan.quark.cn/s/0fe7ffce2dec  <br>
+Baidu Drive: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD  <br>
+Baidu Drive: https://pan.baidu.com/s/11Wlgsz5xBjQ-8KJLdbVgJA?pwd=WZRD  <br>
+X_MOL: https://www.x-mol.com/groups/DongzhenLyu  <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. The scenarios involved in this experiment are complex, and the degradation processes and influencing factors of each battery require further research. To ensure the scientific accuracy of the relevant analyses, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details. 
@@ -46,13 +50,17 @@ WeChat ID: LyuDongzhen   <br>
 ***数据访问和署名***  <br>
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用以下来源文章：Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164
 
-***数据存储位置***  <br>
-GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data   <br>
-ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg   <br>
-谷歌网盘: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX   <br>
-夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec   <br>
-X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu   <br>
+***数据国际存储位置*** <br>
+ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu <br>
+GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data <br>
+Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg <br>
+谷歌网盘: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX <br>
+
+***数据中国存储位置*** <br>
+夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec <br>
+百度网盘: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD <br>
+百度网盘备用: https://pan.baidu.com/s/11Wlgsz5xBjQ-8KJLdbVgJA?pwd=WZRD <br>
+课题组X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
