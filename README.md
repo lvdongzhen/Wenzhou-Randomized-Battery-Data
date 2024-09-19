@@ -1,4 +1,4 @@
-# License of Wenzhou Randomized Battery Data
+# Download and License of Wenzhou Randomized Battery Data
 
 ***Accessibility and Attribution***  <br>
 The related data and code are accessible under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). Proper attribution is mandatory when using or sharing the data or code; please name the data source as "Wenzhou Randomized Battery Data" and cite the source article: Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory and real-life scenarios. Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164
@@ -41,7 +41,7 @@ For inquiries or clarifications, please contact Dr. Dongzhen Lyu.  <br>
 Email: lvdongzhen@hrbeu.edu.cn   <br>
 WeChat ID: LyuDongzhen   <br>
 
-# WZU随机电池退化数据的许可协议
+# WZU随机电池退化数据的下载方式及许可协议
 
 ***数据访问和署名***  <br>
 相关数据和代码的访问和使用权限遵循知识共享署名-禁止演绎 4.0 国际许可协议（CC BY-ND 4.0）。在使用或向他人分享这些数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用以下来源文章：Dongzhen Lyu et al., Battery Cumulative Lifetime Prognostics to Bridge Laboratory and Real-Life Scenarios, Cell Reports Physical Science (2024), https://doi.org/10.1016/j.xcrp.2024.102164
