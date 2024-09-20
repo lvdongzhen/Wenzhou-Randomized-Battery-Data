@@ -10,11 +10,11 @@ Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg  <br>
 Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX  <br>
 
 ***Data Storage Location for China***  <br>
-Quark Drive: https://pan.quark.cn/s/0fe7ffce2dec  <br>
+X_MOL: https://www.x-mol.com/groups/DongzhenLyu   <br>
+Quark Drive: https://pan.quark.cn/s/0fe7ffce2dec   <br>
 Baidu Drive: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD  <br>
-Baidu Drive: https://pan.baidu.com/s/11Wlgsz5xBjQ-8KJLdbVgJA?pwd=WZRD  <br>
-X_MOL: https://www.x-mol.com/groups/DongzhenLyu  <br>
-China Mobile Drive (PWD:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6  <br>
+Backup Baidu Drive: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD   <br>
+China Mobile Drive (PWD:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6   <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. The scenarios involved in this experiment are complex, and the degradation processes and influencing factors of each battery require further research. To ensure the scientific accuracy of the relevant analyses, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details. 
@@ -58,11 +58,11 @@ Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg <br>
 谷歌网盘: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX <br>
 
 ***数据中国存储位置*** <br>
-夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec <br>
-百度网盘: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD <br>
-百度网盘备用: https://pan.baidu.com/s/11Wlgsz5xBjQ-8KJLdbVgJA?pwd=WZRD <br>
-课题组X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu <br>
-中国移动云盘(提取码:nj5b):https://caiyun.139.com/m/i?2h8KfEC7bMFk6 <br>
+课题组X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu  <br>
+夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec  <br>
+百度网盘: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD  <br>
+百度网盘备用: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD  <br>
+中国移动云盘(提取码:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6  <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
