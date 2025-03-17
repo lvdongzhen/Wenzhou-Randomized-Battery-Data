@@ -8,11 +8,12 @@ GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data  <br>
 ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu  <br>
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg  <br>
 Google Drive: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX  <br>
+Onedrive Backup：https://brooklet-my.sharepoint.com/:f:/g/personal/admin_brooklet_onmicrosoft_com/EpuKWBQGWSNPkxEioMOFX_kBrV8-czpxJdmaOjxeWtDo3w?e=sOWnF7  <br>
 
 ***Data Storage Location for China***  <br>
 X_MOL: https://www.x-mol.com/groups/DongzhenLyu   <br>
 Quark Drive: https://pan.quark.cn/s/0fe7ffce2dec   <br>
-Baidu Drive: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD  <br>
+Baidu Drive: https://pan.baidu.com/s/1WTLFhtEZ83UfMZEmhubOUg?pwd=WZRD  <br>
 Backup Baidu Drive: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD   <br>
 China Mobile Drive (PWD:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6   <br>
 
@@ -56,11 +57,12 @@ ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu <br>
 GitHub: https://github.com/lvdongzhen/Wenzhou-Randomized-Battery-Data <br>
 Onedrive: https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg <br>
 谷歌网盘: https://drive.google.com/drive/folders/1YqQv7KYJyRGDVNZrgR00kfmZAeeSdixX <br>
+Onedrive备份：https://brooklet-my.sharepoint.com/:f:/g/personal/admin_brooklet_onmicrosoft_com/EpuKWBQGWSNPkxEioMOFX_kBrV8-czpxJdmaOjxeWtDo3w?e=sOWnF7
 
 ***数据中国存储位置*** <br>
 课题组X_MOL主页: https://www.x-mol.com/groups/DongzhenLyu  <br>
 夸克网盘: https://pan.quark.cn/s/0fe7ffce2dec  <br>
-百度网盘: https://pan.baidu.com/s/1RSku3T35LkzRx7DUUUtHrA?pwd=WZRD  <br>
+百度网盘: https://pan.baidu.com/s/1WTLFhtEZ83UfMZEmhubOUg?pwd=WZRD  <br>
 百度网盘备用: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD  <br>
 中国移动云盘(提取码:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6  <br>
 
