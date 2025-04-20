@@ -16,7 +16,7 @@ Quark Drive: https://pan.quark.cn/s/0fe7ffce2dec   <br>
 Baidu Drive: https://pan.baidu.com/s/1WTLFhtEZ83UfMZEmhubOUg?pwd=WZRD  <br>
 Backup Baidu Drive: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD   <br>
 China Mobile Drive (PWD:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6   <br>
-Lanzou cloud (蓝奏云)：https://wwqn.lanzoul.com/b00mpb6cng (PWD:3mde) <br>
+Torrent (种子下载)：https://wwqn.lanzoul.com/b00mpb6cng (PWD:3mde) <br>
 
 ***Attribution-NoDerivatives Requirement***  <br>
 When using or sharing the data or code, it is mandatory to name the data source as "Wenzhou Randomized Battery Data" and cite the source article mentioned above. When sharing the data or code, it is also obligatory to maintain its original integrity and provide original links for accessing the data; any modification, processing, restructuring, or repackaging is prohibited. The scenarios involved in this experiment are complex, and the degradation processes and influencing factors of each battery require further research. To ensure the scientific accuracy of the relevant analyses, please consult Dr. Dongzhen Lyu for detailed information about the experiment. Apart from the content already disclosed by Dr. Dongzhen Lyu, please refrain from making unauthorized guesses or interpretations regarding the experimental details. 
@@ -66,7 +66,7 @@ Onedrive备份：https://brooklet-my.sharepoint.com/:f:/g/personal/admin_brookle
 百度网盘: https://pan.baidu.com/s/1WTLFhtEZ83UfMZEmhubOUg?pwd=WZRD  <br>
 百度网盘备用: https://pan.baidu.com/s/1XlkNSaAH4SMMRPTK15tQeQ?pwd=WZRD  <br>
 中国移动云盘(提取码:nj5b): https://caiyun.139.com/m/i?2h8KfEC7bMFk6  <br>
-蓝奏云：https://wwqn.lanzoul.com/b00mpb6cng (密码:3mde) <br>
+种子下载：https://wwqn.lanzoul.com/b00mpb6cng (密码:3mde) <br>
 
 ***署名-禁止演绎要求***  <br>
 在使用或分享相关的数据或代码时，请务必采用统一的命名格式“WZU随机电池退化数据”（英文版本为 "Wenzhou Randomized Battery Data"），并引用前述来源文章。在分享数据或代码时，必须保持数据集的原始完整性，并提供直接访问原始数据的链接；严禁进行任何修改、处理、重组或重新打包。本实验中涉及的场景复杂，各个电池的退化过程及影响因素尚需进一步研究，为了确保相关分析的科学性，可具体咨询吕东祯博士交流实验细节。除了吕东祯博士已经公开披露的内容之外，请避免对实验细节进行未经授权的猜测或解读。
