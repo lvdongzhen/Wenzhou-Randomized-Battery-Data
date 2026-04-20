@@ -48,7 +48,7 @@ Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory
 Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
 Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
 Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
-Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations  <br>
 Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
 
@@ -104,6 +104,6 @@ Dongzhen Lyu et al. Battery cumulative lifetime prognostics to bridge laboratory
 Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025   <br>
 Dongzhen Lyu, et al. Reversing the Cold Curse on Li-ion Battery Durability, Joule, 2026, DOI:10.1016/j.joule.2026.102352   <br>
 Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, DOI: 10.2139/ssrn.5385853   <br>
-Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations
+Dongzhen Lyu, et al. Orbital-Informed Prognostics for Batteries under Operating Condition Variations  <br>
 Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A Tutorial. 2026.   <br>
 吕东祯等著, 基于勒贝格采样的锂电池“单体-成组”迁移驱动寿命预测, 机械工程学报, 2024   <br>
