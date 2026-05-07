@@ -1,3 +1,5 @@
+***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
+
 # Download and License of Wenzhou Randomized Battery Data
 
 ***Accessibility and Attribution***  <br>
